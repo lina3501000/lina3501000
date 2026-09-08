@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat&logo=espressif&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics-333333?style=flat&logo=arduino&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-333333?style=flat&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6C37?style=flat&logo=3d&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=flat&logo=autodesk&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
