@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a high school student and interested in aviation, electronics, programming and making. In my free time I enjoy working on projects. 
 
 ## Tech Stack
 
@@ -61,3 +62,8 @@ Here are some ideas to get you started:
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
+
+## Currently learning
+- C/C++
+- PCB Design: KiCad
+- Embedded Systems
