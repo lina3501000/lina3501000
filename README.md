@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Thonny](https://img.shields.io/badge/Thonny-000000?style=flat&logo=python&logoColor=white)
+![Thonny](https://img.shields.io/badge/Thonny-000000?style=flat&logoColor=white)
 
 ### 🎨 Design & Other
 
